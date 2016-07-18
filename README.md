@@ -14,4 +14,5 @@ Then just run "make".
 ### build single file
 
 cd mycat
+
 gcc mycat.c ../lib/error.o -I../include -o mycat
